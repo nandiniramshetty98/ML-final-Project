@@ -1,1 +1,13 @@
 # ML-final-Project
+
+Nandini Ramshetty Computer Science(700734096) University of Central Missouri Uploaded Files
+
+1.FINAL INCREMENT
+
+2.PPT
+
+3.RESULTS FOR EACH ALGORITHM USED AND GUI RESULTS (SCREENSHOTS)
+
+4.CODE FILE WITH .IPYNB EXTENSION
+
+5.DATASET USED TO DEVELOP CODE.
